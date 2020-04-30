@@ -98,7 +98,9 @@ def draw_levy_c():
     up()
     backward(300/2.0)
     down()
-    levy_c_curve(8,10)
+    for i in range(2):
+        levy_c_curve(8,10)
+        right(180)
     mainloop()
 
 def rings(length,order):
@@ -166,6 +168,6 @@ def draw_pentaplexity():
 #draw_flake()
 #draw_quadratic_koch()
 #draw_quad_flake()
-#draw_levy_c()
+draw_levy_c()
 #draw_rings()
-draw_pentaplexity()
+#draw_pentaplexity()
