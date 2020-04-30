@@ -14,7 +14,3 @@ This is a levy c - curve fractal drawn two times, each curve 180 degrees apart.
 
 A Dragon fractal
 
-![Image description](ttps://github.com/godha112/fractals/blob/master/sierpinsky-sieve.JPG)
-
-A sierpinsky sieve fractal
-
